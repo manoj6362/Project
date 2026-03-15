@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Khushi Construction & Land Developers — Next.js 14 Website
 
 A production-ready, full-featured construction company website built with Next.js 14, TypeScript, Tailwind CSS, Framer Motion, and Shadcn UI.
@@ -155,3 +156,6 @@ Or connect your GitHub repo directly at [vercel.com](https://vercel.com).
 - ✅ TypeScript throughout
 - ✅ Google Maps embed on contact page
 "# Project" 
+=======
+# Project
+>>>>>>> a8299e276620e67fe4f90463612cf8b21b9848e7
